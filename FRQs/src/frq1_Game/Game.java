@@ -59,6 +59,7 @@ public class Game {
         }
         
         return score;
+        //return
     }
 
     /** Simulates the play of num games and returns the highest
